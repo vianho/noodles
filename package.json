@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@vianho/apidays24pj": "^0.0.9",
+    "projen": "^0.80.20"
+  }
+}
