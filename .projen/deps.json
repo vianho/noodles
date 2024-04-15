@@ -2,11 +2,12 @@
   "dependencies": [
     {
       "name": "apidays24pj",
+      "version": "0.0.14",
       "type": "devenv"
     },
     {
       "name": "projen",
-      "version": "0.80.20",
+      "version": "0.81.0",
       "type": "devenv"
     },
     {
